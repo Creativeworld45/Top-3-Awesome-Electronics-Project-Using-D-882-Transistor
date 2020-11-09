@@ -55,6 +55,16 @@ Our circuit is totally ready to use. Now if you touch your finger on both resist
 
 Project No 3 : Mini Amplifier Circuit Using Transistor
 
+1. Transistor - D 882 (2 Pieces)
+
+2. Battery - 9 Volt
+
+3. Resistor - 100 K Ohm
+
+4. Capacitor - 47uf/16v
+
+5. Sound Speaker
+
 Connect one transistor Emitter with other transistor Base.
 
 Connect 100k resistor with Collector & Base. Connect Capacitor Negative leg with Base.
