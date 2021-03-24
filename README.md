@@ -4,9 +4,11 @@ JLCPCB is the largest PCB prototype enterprise in China and a high-tech manufact
 
 JLCPCB have some new special promotions. They offer $2 for 4 layer PCBs now, which is the best price in the world.
 
-Thanks to JLCPCB for $2 PCB prototype with free SMT assembly fee
+Thanks To JLCPCB.
 
-Order Now - https://jlcpcb.com
+$2 for 1-4 Layer PCBs.
+
+Get SMT Coupons: https://jlcpcb.com/RTA
 
 Following these steps, you can make 3 awesome electronics project and circuit at home easily. You can use this circuit as like school project, college project. You also can use this circuit for your personal use.  
 Supplies: To make this circuit, we might need some electronics component.  Those component list have to been given below.  
